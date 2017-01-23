@@ -10,5 +10,4 @@ To compile just the LongestAI section (the longest word AI), type make LongestAI
 
 Run the game by typing: ./Scrabble config.txt
 
-Base case is if you run out of tiles and the tile is occupied because that means there is a gap between the word you are trying to form and the new letter.
 
